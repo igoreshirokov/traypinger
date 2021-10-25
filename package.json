@@ -1,0 +1,24 @@
+{
+  "name": "traypinger",
+  "version": "1.0.0",
+  "description": "Проверяет доступность сайтов по указанным URL",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoreshirokov/traypinger.git"
+  },
+  "keywords": [
+    "tray",
+    "ping",
+    "websites"
+  ],
+  "author": "Tatarchenko Igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igoreshirokov/traypinger/issues"
+  },
+  "homepage": "https://github.com/igoreshirokov/traypinger#readme"
+}
