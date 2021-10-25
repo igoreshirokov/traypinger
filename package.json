@@ -4,7 +4,8 @@
   "description": "Проверяет доступность сайтов по указанным URL",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/igoreshirokov/traypinger/issues"
   },
-  "homepage": "https://github.com/igoreshirokov/traypinger#readme"
+  "homepage": "https://github.com/igoreshirokov/traypinger#readme",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
 }
